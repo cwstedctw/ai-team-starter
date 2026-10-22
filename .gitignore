@@ -1,0 +1,8 @@
+# 系統和 Office 自己產生的暫存檔，不要推上 GitHub
+# Word、Excel 開檔時的鎖定檔（檔名開頭是 ~$，裡面有使用者名稱）
+~$*
+# Mac 的資料夾設定檔
+.DS_Store
+# Windows 的縮圖快取
+Thumbs.db
+desktop.ini
